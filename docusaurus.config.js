@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: '大杂烩 MC 服务器',
+  tagline: '一个原版 1.20.4 生存服务器 IP:dazahui.chat',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'http://dazahui.chat:3000',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -43,15 +43,15 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -66,22 +66,21 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: '大杂烩',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/icon.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: '服务器',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1N6yUa-DsM88XqTATTEwhi8ERcMsahZf&authKey=at5bFQFgEi%2FzvxsvreLBk30ueXVhfeDjnl1UGNyJlNxGEDEIvhVHiWqVecYVAauV&noverify=0&group_code=796500922',
+            label: 'QQ群',
             position: 'right',
           },
         ],
@@ -90,46 +89,38 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '文档',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '服务器信息',
+                to: '/docs/server-introduction',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '社群',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'QQ群',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1N6yUa-DsM88XqTATTEwhi8ERcMsahZf&authKey=at5bFQFgEi%2FzvxsvreLBk30ueXVhfeDjnl1UGNyJlNxGEDEIvhVHiWqVecYVAauV&noverify=0&group_code=796500922',
               },
             ],
           },
           {
-            title: 'More',
+            title: '其他',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: '本服没有南桐',
+                href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1N6yUa-DsM88XqTATTEwhi8ERcMsahZf&authKey=at5bFQFgEi%2FzvxsvreLBk30ueXVhfeDjnl1UGNyJlNxGEDEIvhVHiWqVecYVAauV&noverify=0&group_code=796500922',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              // {
+              //   label: 'GitHub',
+              //   href: 'https://github.com/facebook/docusaurus',
+              // },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} DaZaHui, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

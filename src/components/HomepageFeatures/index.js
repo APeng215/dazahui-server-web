@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'Focus on What Matters',
+    title: '多插件',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          服务器安装如登录、记录玩家行为、在线地图等插件。
       </>
     ),
   },
-  {
-    title: 'Powered by React',
+    {
+        title: '纯原版',
+        Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+        description: (
+            <>
+                服务器没有改变任何原版机制。你可以用任何 1.20.4 客户端登录服务器，无论原版、Fabric 版还是 Forge 版。
+            </>
+        ),
+    },
+    {
+    title: '高性能',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          服务器配置高，网络好，地图经过预加载，基本不会有卡顿。
       </>
     ),
   },
