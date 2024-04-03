@@ -1,6 +1,7 @@
 ---
-sidebar_label: '基本信息'
+sidebar_label: '概况'
 sidebar_position: 1
+title: '概况'
 ---
 
 # 大杂烩 MC 服务器
@@ -28,6 +29,10 @@ sidebar_position: 1
 |  下行带宽   | 380 Mbps |
 |  上行带宽   | 40 Mbps  |
 |  网络运营商  | 浙江电信     |
+
+### 游戏版本
+
+`1.20.4`
 
 ### 插件列表
 
