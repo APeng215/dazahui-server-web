@@ -8,8 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '大杂烩 MC 服务器',
+  title: '大杂烩 MC',
   tagline: '一个原版 1.20.4 生存服务器 IP:dazahui.chat',
+  buttonText: '了解更多',
   favicon: 'img/icon.png',
 
   // Set the production url of your site here
