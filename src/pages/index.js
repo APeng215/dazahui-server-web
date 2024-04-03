@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/server-introduction">
-              {siteConfig.buttonText}
+              了解更多
           </Link>
         </div>
       </div>
