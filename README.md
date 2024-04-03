@@ -1,5 +1,10 @@
 # Website
 
+Use command below to start the server.
+```shell 
+npx docusaurus start
+```
+
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
