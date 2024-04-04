@@ -1,10 +1,12 @@
 ---
-sidebar_label: '常见问题'
-sidebar_position: 2
+sidebar_label: '常见问题❓'
+sidebar_position: 3
 title: '常见问题'
 ---
 
 # 常见问题
+
+以下是关于服务器的常见问题，如果没有你想问的，可以直接询问服管理
 
   <details>
     <summary>我为什么不能 Tp ？</summary>
