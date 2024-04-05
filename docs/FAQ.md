@@ -14,13 +14,8 @@ title: '常见问题'
   </details>
 
   <details>
-    <summary>我该用什么整合包进入服务器？</summary>
-    <p>任何 1.20.4 版本的游戏都可以进入服务器，无论是原版、Forge 版、Fabric 版。你可以安装任何你喜欢的客户端 Mod（作弊 Mod 除外）进入游戏。</p>
-  </details>
-
-  <details>
-    <summary>有没有服务器整合包？</summary>
-    <p><a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1N6yUa-DsM88XqTATTEwhi8ERcMsahZf&authKey=at5bFQFgEi%2FzvxsvreLBk30ueXVhfeDjnl1UGNyJlNxGEDEIvhVHiWqVecYVAauV&noverify=0&group_code=796500922">群内</a>有 1.20.4 Fabric 简单整合。不过只要是 1.20.4 版本的游戏都可以进服。</p>
+    <summary>我该用什么整合包进入服务器？/ 服务器整合包在哪下载？</summary>
+    <p>任何 1.20.4 版本的游戏都可以进入服务器，无论是原版、Forge 版、Fabric 版。你可以安装任何你喜欢的客户端 Mod（作弊 Mod 除外）进入游戏。当然<a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1N6yUa-DsM88XqTATTEwhi8ERcMsahZf&authKey=at5bFQFgEi%2FzvxsvreLBk30ueXVhfeDjnl1UGNyJlNxGEDEIvhVHiWqVecYVAauV&noverify=0&group_code=796500922">群内</a>也有 1.20.4 Fabric 简单整合可以下载。</p>
   </details>
 
   <details>

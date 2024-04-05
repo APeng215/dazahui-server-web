@@ -37,28 +37,27 @@ title: '概况'
 
 ### 关键游戏规则
 
-|  规则   | 参数  | 
-|:-----:|:---:|
-| Tp 指令 | 不允许 | 
-| 死亡不掉落 |  开  | 
-| 游戏难度  | 困难  |
+|   规则   | 参数  | 
+|:------:|:---:|
+| Tp 指令  | 不允许 | 
+| 死亡不掉落  |  开  | 
+|  游戏难度  | 困难  |
+|   防爆   |  关  |
+| 流浪商人生成 |  关  |
 
 ### 插件
 
 - AntiPopup
 - CoreProtect
 - ServerBackup
+- LuckPerms
 
 ### Mod
 
 - Chunky
 - Dynmap
-- carpet
-- ferritecore
-- lithium
-- LuckPerms
-- memoryleakfix
 - easyauth
+- mixintrace
 
 :::tip
 你不必安装这些 Mod
