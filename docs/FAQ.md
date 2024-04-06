@@ -31,3 +31,8 @@ title: '常见问题'
     ![阿鹏 976310604](/img/chong.png)
 
 </details>
+
+<details>
+  <summary>服务器开放时间？</summary>
+  <p>全年365天24小时全天开放。如果服务器关闭了，大概率是崩溃、停电等不可坑力，这时候请联系管理员解决。</p>
+</details>
