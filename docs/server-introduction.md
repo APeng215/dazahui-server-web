@@ -31,34 +31,27 @@ title: '概况'
 
 ## 游戏信息
 
-### 版本
+### 服务端版本
 
-`1.20.4`
+`1.20.4 Paper`
 
 ### 关键游戏规则
 
-|   规则   | 参数  | 
-|:------:|:---:|
-| Tp 指令  | 不允许 | 
-| 死亡不掉落  |  开  | 
-|  游戏难度  | 困难  |
-|   防爆   |  关  |
-| 流浪商人生成 |  关  |
+|     规则     | 参数  | 
+|:----------:|:---:|
+|  `/tp` 指令  | 不允许 | 
+| `/seed` 指令 | 允许  |
+|   死亡不掉落    |  开  | 
+|    游戏难度    | 困难  |
+|     防爆     |  关  |
 
 ### 插件
 
 - AntiPopup
 - CoreProtect
-- ServerBackup
-- LuckPerms
-
-### Mod
-
-- Chunky
 - Dynmap
-- easyauth
-- mixintrace
-
-:::tip
-你不必安装这些 Mod
-:::
+- LuckPerms
+- OpenLogin
+- ProtocolLib
+- ServerBackup
+- SetHome
