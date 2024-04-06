@@ -6,6 +6,10 @@ sidebar_position: 1
 
 卫星地图允许你通过浏览器实时查看服务器地图和玩家位置
 
+## 网址
+
+[http://dazahui.chat:8123](http://dazahui.chat:8123)
+
 ## 如何使用
 
 1. 登录[网页](http://dazahui.chat:8123)即可查看卫星地图
