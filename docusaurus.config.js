@@ -77,7 +77,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '服务器',
+            label: '文档',
           },
           {
             href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=1N6yUa-DsM88XqTATTEwhi8ERcMsahZf&authKey=at5bFQFgEi%2FzvxsvreLBk30ueXVhfeDjnl1UGNyJlNxGEDEIvhVHiWqVecYVAauV&noverify=0&group_code=796500922',
