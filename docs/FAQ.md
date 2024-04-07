@@ -25,7 +25,7 @@ title: '常见问题'
 
 <details>
   <summary>服务器出问题了 / 我被熊了</summary>
-  <p>请在群内找这两位解决问题</p>
+  <p>请在群内找这两位解决问题。</p>
 
     ![冲冲 750733195](/img/peng.png)
     ![阿鹏 976310604](/img/chong.png)
@@ -34,5 +34,10 @@ title: '常见问题'
 
 <details>
   <summary>服务器开放时间？</summary>
-  <p>全年 365 天 24 小时全天开放。如果服务器关闭了，大概率是崩溃、停电等不可坑力，这时候请联系管理员解决。</p>
+  <p>全年 365 天 24 小时全天开放。如果服务器在没有通知的情况下关闭了，大概率是崩溃、停电等不可坑力，这时候请联系管理员解决。</p>
+</details>
+
+<details>
+  <summary>无法连接至服务器，显示 `Sorry, but you are using an invalid nickname`</summary>
+  <p>服务器要求 ID 长度 3~16，且只能包含字母数字下划线。请修改 ID 后重新尝试进服。</p>
 </details>
