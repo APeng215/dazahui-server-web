@@ -57,3 +57,4 @@ title: '概况'
 - SetHome
 - tabtps
 - minimotd
+- chunky

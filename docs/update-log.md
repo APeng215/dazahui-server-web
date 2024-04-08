@@ -8,6 +8,7 @@ sidebar_position: 4
 
 - 添加插件 `tabtps`
 - 添加插件 `minimotd`
+- 添加插件 `chunky`
 - 重置 `卫星地图`
 - 设置 `服务器循环备份数量` 30
 
