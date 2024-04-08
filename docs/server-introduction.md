@@ -55,3 +55,5 @@ title: '概况'
 - ProtocolLib
 - ServerBackup
 - SetHome
+- tabtps
+- minimotd
