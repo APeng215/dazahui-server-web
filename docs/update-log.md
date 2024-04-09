@@ -8,6 +8,10 @@ sidebar_position: 4
 
 - 优化服务器在服务器列表显示的信息（MOTD）
 
+:::note[说明]
+服务器在列表显示的信息更漂亮了。另外我正在尝试将服务器挂在在 [**MCDReforged**](https://github.com/Fallen-Breath/MCDReforged) 上，方便后续增加服务器自动重启等功能。
+:::
+
 ## 2024年4月8日
 
 - 添加插件 `tabtps`
